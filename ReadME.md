@@ -1,5 +1,5 @@
 # Drum Kit
 
-This repo is to learn javascript for web development. This also taught me how to play sound after certain events. 
+This repo is to learn JavaScript for web development.
 
-This project taught me query selectors, as well as adding/removing classes after an event.
+This project taught me query selectors, adding/removing classes after an event, as well as how to play sounds after certain events.
